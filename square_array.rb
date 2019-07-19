@@ -5,6 +5,5 @@ def square_array(array)
    new_array = []
    new_array << new_number
    new_array
-   binding.pry
  end
 end
